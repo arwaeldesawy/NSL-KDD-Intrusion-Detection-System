@@ -1,8 +1,9 @@
-﻿altair==4.2.0
-streamlit==1.19.0
+﻿altair
+streamlit
 pandas
 matplotlib
 seaborn
 scikit-learn
+
 
 
